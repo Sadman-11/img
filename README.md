@@ -1,2 +1,3 @@
 # img
-https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11.img
+
+<a href="https://github.com/sadman-11">  <img align="right" src="https://komarev.com/ghpvc/?username=sadman-11"></a>
